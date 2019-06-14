@@ -4,13 +4,13 @@ This is where I organize the example I need to implement the app with the Flutte
 # Firebase
 |Example|Description|Pub|
 |:---:|:---:|:---:|
-|[firebase_messaging]()|FCM(Firebase Cloud Messaging)|[![pub](https://img.shields.io/badge/pub-v5.0.3-yellow.svg)](https://pub.dev/packages/firebase_messaging)|
-|[cloud_firestore]()|<span style="color:red">not yet</span>|테스트3|
-|[cloud_functions]()|<span style="color:red">not yet</span>|테스트3|
-|[firebase_auth]()|<span style="color:red">not yet</span>|테스트3|
-|[firebase_storage]()|<span style="color:red">not yet</span>|테스트3|
-|[firebase_dynamic_links]()|<span style="color:red">not yet</span>|테스트3|
-|[google_sign_in]()|<span style="color:red">not yet</span>|테스트3|
+|[firebase_messaging]()|FCM(Firebase Cloud Messaging)|[![pub](https://img.shields.io/badge/pub-v5.0.3-orange.svg)](https://pub.dev/packages/firebase_messaging)|
+|[cloud_firestore]()|<span style="color:red">not yet</span>|[![pub](https://img.shields.io/badge/pub-v0.12.5-orange.svg)](https://pub.dev/packages/cloud_firestore)|
+|[cloud_functions]()|<span style="color:red">not yet</span>|[![pub](https://img.shields.io/badge/pub-v0.4.0-orange.svg)](https://pub.dev/packages/cloud_functions)|
+|[firebase_auth]()|<span style="color:red">not yet</span>|[![pub](https://img.shields.io/badge/pub-v0.11.1+6-orange.svg)](https://pub.dev/packages/firebase_auth)|
+|[firebase_storage]()|<span style="color:red">not yet</span>|[![pub](https://img.shields.io/badge/pub-v3.0.1-orange.svg)](https://pub.dev/packages/firebase_storage)|
+|[firebase_dynamic_links]()|<span style="color:red">not yet</span>|[![pub](https://img.shields.io/badge/pub-v0.4.0+2-orange.svg)](https://pub.dev/packages/firebase_dynamic_links)|
+|[google_sign_in]()|<span style="color:red">not yet</span>|[![pub](https://img.shields.io/badge/pub-v4.0.2-orange.svg)](https://pub.dev/packages/google_sign_in)|
 
 
 # Url_launcher
