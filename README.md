@@ -4,7 +4,6 @@ This is the repository to collect **EXAMPLEs** that will be useful for implement
 <br /><br /><br />
 # Examples
 
-<br />
 
 ### Firebase
 |Example|Description|Pub|
