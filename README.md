@@ -21,6 +21,7 @@ Flutter로 앱을 구현할때 유용하게 사용할 예제들을 모아두는 
 |Example|Description|
 |:---:|:---|
 |[click_to_call](https://github.com/YUNHANKYU/Flutter_Phone_Call)|To dial the phone, you can use the **UrlLauncher.launch** API with the *tel* scheme to dial the phone.|
+|SMS_message|To send SMS message, you can use the **UrlLauncher.launch** API with the *sms* scheme to send the message|
 
 
 ### Uncategorized
