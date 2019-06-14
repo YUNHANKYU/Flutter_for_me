@@ -24,7 +24,7 @@ This is where I organize the example I need to implement the app with the Flutte
 ### Uncategorized
 |Example|Description|Pub|
 |:---:|:---:|:---:|
-|[image_picker]()|<span style="color:red">not yet</span>|pub|
+|image_picker|<span style="color:red">not yet</span>|pub|
 
 
 # 도움되는 마크다운 문법
