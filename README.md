@@ -16,6 +16,7 @@ This is the repository to collect **EXAMPLEs** that will be useful for implement
 |google_sign_in|<span style="color:red">not yet</span>|[![pub](https://img.shields.io/badge/pub-v4.0.2-orange.svg)](https://pub.dev/packages/google_sign_in)|
 
 <br />
+
 ### Url_launcher [![pub](https://img.shields.io/badge/pub-v5.0.3-orange.svg)](https://pub.dev/packages/url_launcher)
 |Example|Description|
 |:---:|:---|
@@ -23,6 +24,7 @@ This is the repository to collect **EXAMPLEs** that will be useful for implement
 |SMS_message|To send SMS message, you can use the **UrlLauncher.launch** API with the *sms* scheme to send the message|
 
 <br />
+
 ### Uncategorized
 |Example|Description|Pub|
 |:---:|:---:|:---:|
@@ -30,10 +32,12 @@ This is the repository to collect **EXAMPLEs** that will be useful for implement
 
 
 <br /><br />
+
 # Customized Plugin
 |Example|Description|Pub|
 |:---:|:---:|:---:|
 |carousel|<span style="color:red">not yet</span>|pub|
+
 <br /><br /><br />
 
 
