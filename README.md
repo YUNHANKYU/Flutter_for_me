@@ -1,5 +1,5 @@
 # Flutter_for_me
-This is where I organize the **Example** I need to implement the app with the Flutter.
+This is where I organize the **EXAMPLE** I need to implement the app with the Flutter.
 
 # Examples
 
