@@ -18,9 +18,7 @@ This is where I organize the example I need to implement the app with the Flutte
 ### Url_launcher
 |Example|Description|Pub|
 |:---:|:---:|:---:|
-|[click_to_call](https://github.com/YUNHANKYU/Flutter_Phone_Call)|To dial the phone, you can use 
-the **UrlLauncher.launch API** 
-with the *tel* scheme to dial the phone.|[![pub](https://img.shields.io/badge/pub-v5.0.3-orange.svg)](https://pub.dev/packages/url_launcher)|
+|[click_to_call](https://github.com/YUNHANKYU/Flutter_Phone_Call)|To dial the phone, you can use \nthe **UrlLauncher.launch API** \nwith the *tel* scheme to dial the phone.|[![pub](https://img.shields.io/badge/pub-v5.0.3-orange.svg)](https://pub.dev/packages/url_launcher)|
 
 
 ### Uncategorized
