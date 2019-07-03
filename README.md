@@ -18,6 +18,14 @@ This is the repository to collect **EXAMPLEs** that will be useful for implement
 
 <br />
 
+### APIs
+|Example|Description|
+|:---:|:---|
+|[google_maps](https://github.com/YUNHANKYU/Flutter_Google_Maps)|Google Maps API example|
+| -- | -- |
+
+<br />
+
 ### Flutter Widgets
 |Example|Description|
 |:---:|:---|
