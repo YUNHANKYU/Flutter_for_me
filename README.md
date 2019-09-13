@@ -30,6 +30,7 @@ This is the repository to collect **EXAMPLEs** that will be useful for implement
 |Example|Description|
 |:---:|:---|
 |[date_picker](https://github.com/YUNHANKYU/Flutter_Calendar)|All about date_picker|
+|[web_view](https://github.com/YUNHANKYU/Flutter_WebView)|Web View|
 | -- | -- |
 
 <br />
