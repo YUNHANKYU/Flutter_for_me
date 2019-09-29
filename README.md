@@ -22,7 +22,7 @@ This is the repository to collect **EXAMPLEs** that will be useful for implement
 |Example|Description|
 |:---:|:---|
 |[google_maps](https://github.com/YUNHANKYU/Flutter_Google_Maps)|Google Maps API example|
-| -- | -- |
+|[weather](https://github.com/YUNHANKYU/Flutter_Weather) | 공공데이터 API using `http` example |
 
 <br />
 
