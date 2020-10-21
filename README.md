@@ -2,6 +2,26 @@
 This is the repository to collect **EXAMPLEs** that will be useful for implementing apps with Flutter.
 <br />Flutter로 앱을 구현할때 유용하게 사용할 **예제**들을 모아두는 repository입니다. 
 <br /><br /><br />
+
+
+# Helper
+
+## Widgets
+앱 개발 시 보통 사용하는 유용한 위젯들 모음
+|Example|Description|
+|:---:|:---:|
+|[EndDrawer](https://dartpad.dev/b6409e10de32b280b8938aa75364fa7b)|EndDrawer Example in DartPad|
+|carousel|<span style="color:red">not yet</span>|
+
+## Data Structure
+자주쓰는 데이터 구조 로직 예제
+|Example|Description|
+|:---:|:---:|
+|[Sort Map by Keys](https://dartpad.dev/215ba63265350c02dfbd586dfd30b8c3)|Sort Map by Keys Example in DartPad|
+|[Sort Map by Values](https://dartpad.dev/215ba63265350c02dfbd586dfd30b8c3)|Sort Map by Values Example in DartPad|
+
+<br /><br /><br />
+
 # Examples
 
 
@@ -57,16 +77,6 @@ This is the repository to collect **EXAMPLEs** that will be useful for implement
 |Example|Description|Pub|
 |:---:|:---:|:---:|
 |carousel|<span style="color:red">not yet</span>|pub|
-
-<br /><br /><br />
-
-
-# Widgets
-앱 개발 시 보통 사용하는 유용한 위젯들 모음
-|Example|Description|
-|:---:|:---:|
-|[EndDrawer](https://dartpad.dev/b6409e10de32b280b8938aa75364fa7b)|EndDrawer Example in DartPad|
-|carousel|<span style="color:red">not yet</span>|
 
 <br /><br /><br />
 
