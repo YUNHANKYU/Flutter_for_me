@@ -30,10 +30,10 @@ This is the repository to collect **EXAMPLEs** that will be useful for implement
 |Example|Description|Pub|
 |:---:|:---:|:---:|
 |[firebase_messaging](https://github.com/YUNHANKYU/Flutter_FCM_push_notification)|FCM(Firebase Cloud Messaging)|[![pub](https://img.shields.io/badge/pub-v7.0.3-orange.svg)](https://pub.dev/packages/firebase_messaging)|
-|[cloud_firestore](https://github.com/YUNHANKYU/FirebaseFlutter_Firestore_example)|<span style="color:red">다음 링크 참고</span>[FirebaseFlutter](https://firebase.flutter.dev/)|[![pub](https://img.shields.io/badge/pub-v0.14.3+1-orange.svg)](https://pub.dev/packages/cloud_firestore)|
+|[cloud_firestore](https://github.com/YUNHANKYU/FirebaseFlutter_Firestore_example)|<span style="color:red">다음 링크 참고 </span>[Firestore Example](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/cloud_firestore/cloud_firestore/example)|[![pub](https://img.shields.io/badge/pub-v0.14.3+1-orange.svg)](https://pub.dev/packages/cloud_firestore)|
 |cloud_functions|<span style="color:red">not yet</span>|[![pub](https://img.shields.io/badge/pub-v0.4.0-orange.svg)](https://pub.dev/packages/cloud_functions)|
-|firebase_auth|<span style="color:red">not yet</span>|[![pub](https://img.shields.io/badge/pub-v0.11.1+6-orange.svg)](https://pub.dev/packages/firebase_auth)|
-|firebase_storage|<span style="color:red">not yet</span>|[![pub](https://img.shields.io/badge/pub-v3.0.1-orange.svg)](https://pub.dev/packages/firebase_storage)|
+|[firebase_auth](https://github.com/YUNHANKYU/FirebaseFlutter_Auth_example)|<span style="color:red">Auth Example 참고 </span>[Auth Example](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_auth/firebase_auth/example)|[![pub](https://img.shields.io/badge/pub-v0.11.1+6-orange.svg)](https://pub.dev/packages/firebase_auth)|
+|[firebase_storage](https://github.com/YUNHANKYU/Flutter_Firebase_Storage)|<span style="color:red">Storage Example 참고 </span>[Storage Example](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_storage/firebase_storage/example)|[![pub](https://img.shields.io/badge/pub-v3.0.1-orange.svg)](https://pub.dev/packages/firebase_storage)|
 |[firebase_dynamic_links](https://github.com/YUNHANKYU/Flutter_Firebase_Dynamic_Link)|<span style="color:red">Dynamic Link - Long/Short</span>|[![pub](https://img.shields.io/badge/pub-v0.6.2-orange.svg)](https://pub.dev/packages/firebase_dynamic_links)|
 |google_sign_in|<span style="color:red">not yet</span>|[![pub](https://img.shields.io/badge/pub-v4.0.2-orange.svg)](https://pub.dev/packages/google_sign_in)|
 
