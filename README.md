@@ -30,7 +30,7 @@ This is the repository to collect **EXAMPLEs** that will be useful for implement
 |Example|Description|Pub|
 |:---:|:---:|:---:|
 |[firebase_messaging](https://github.com/YUNHANKYU/Flutter_FCM_push_notification)|FCM(Firebase Cloud Messaging)|[![pub](https://img.shields.io/badge/pub-v7.0.3-orange.svg)](https://pub.dev/packages/firebase_messaging)|
-|cloud_firestore|<span style="color:red">not yet</span>|[![pub](https://img.shields.io/badge/pub-v0.12.5-orange.svg)](https://pub.dev/packages/cloud_firestore)|
+|[cloud_firestore](https://github.com/YUNHANKYU/FirebaseFlutter_Firestore_example)|<span style="color:red">다음 링크 참고</span>[FirebaseFlutter](https://firebase.flutter.dev/)|[![pub](https://img.shields.io/badge/pub-v0.14.3+1-orange.svg)](https://pub.dev/packages/cloud_firestore)|
 |cloud_functions|<span style="color:red">not yet</span>|[![pub](https://img.shields.io/badge/pub-v0.4.0-orange.svg)](https://pub.dev/packages/cloud_functions)|
 |firebase_auth|<span style="color:red">not yet</span>|[![pub](https://img.shields.io/badge/pub-v0.11.1+6-orange.svg)](https://pub.dev/packages/firebase_auth)|
 |firebase_storage|<span style="color:red">not yet</span>|[![pub](https://img.shields.io/badge/pub-v3.0.1-orange.svg)](https://pub.dev/packages/firebase_storage)|
