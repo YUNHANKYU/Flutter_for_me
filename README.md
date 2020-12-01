@@ -34,7 +34,7 @@ This is the repository to collect **EXAMPLEs** that will be useful for implement
 |cloud_functions|<span style="color:red">not yet</span>|[![pub](https://img.shields.io/badge/pub-v0.4.0-orange.svg)](https://pub.dev/packages/cloud_functions)|
 |firebase_auth|<span style="color:red">not yet</span>|[![pub](https://img.shields.io/badge/pub-v0.11.1+6-orange.svg)](https://pub.dev/packages/firebase_auth)|
 |firebase_storage|<span style="color:red">not yet</span>|[![pub](https://img.shields.io/badge/pub-v3.0.1-orange.svg)](https://pub.dev/packages/firebase_storage)|
-|firebase_dynamic_links|<span style="color:red">not yet</span>|[![pub](https://img.shields.io/badge/pub-v0.4.0+2-orange.svg)](https://pub.dev/packages/firebase_dynamic_links)|
+|[firebase_dynamic_links](https://github.com/YUNHANKYU/Flutter_Firebase_Dynamic_Link)|<span style="color:red">not yet</span>|[![pub](https://img.shields.io/badge/pub-v0.6.2-orange.svg)](https://pub.dev/packages/firebase_dynamic_links)|
 |google_sign_in|<span style="color:red">not yet</span>|[![pub](https://img.shields.io/badge/pub-v4.0.2-orange.svg)](https://pub.dev/packages/google_sign_in)|
 
 <br />
