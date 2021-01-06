@@ -1,6 +1,6 @@
 # Flutter_for_me [![me](https://img.shields.io/badge/YHK-May2nd-FF3E3E.svg)](https://yunhankyu.github.io/)
 This is the repository to collect **EXAMPLEs** that will be useful for implementing apps with Flutter.
-<br />Flutter로 앱을 구현할때 유용하게 사용할 **예제**들을 모아두는 repository입니다. 
+<br />Flutter로 앱을 구현할때 유용하게 사용할 **예제**들을 모아두는 repository입니다. 참고해주세요 :)
 <br /><br /><br />
 
 
